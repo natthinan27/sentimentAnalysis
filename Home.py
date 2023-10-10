@@ -19,7 +19,7 @@ col1, col2 = st.columns(2)
 with col1:    
     st.image('./pic/11.jpg')
 
-    lot3="https://lottie.host/defef63f-5b59-455d-a6e0-ff03f2791104/t43d8wbLKq.json"
+    lot3="https://lottie.host/347e3388-72e3-4b11-9fe8-49b2349c4a7a/GekjLnvyXb.json"
     lottie3 = load_lottieurl(lot3)
     st_lottie(lottie3)
 with col2:
