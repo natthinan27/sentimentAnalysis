@@ -16,8 +16,8 @@ st.header("การวิเคราะห์ความรู้สึกภ
 st.subheader("Natthinan Khemthong")
 
 col1, col2 = st.columns(2)
-with col1:    st.image('./pic/11.jpg')
-
+with col1:    
+    st.image('./pic/11.jpg')
 
     lot3="https://lottie.host/defef63f-5b59-455d-a6e0-ff03f2791104/t43d8wbLKq.json"
     lottie3 = load_lottieurl(lot3)
